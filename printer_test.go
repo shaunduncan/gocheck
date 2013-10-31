@@ -1,7 +1,7 @@
 package gocheck_test
 
 import (
-    .   "launchpad.net/gocheck"
+    .   "github.com/shaunduncan/gocheck"
 )
 
 var _ = Suite(&PrinterS{})

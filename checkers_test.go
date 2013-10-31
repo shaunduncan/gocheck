@@ -2,7 +2,7 @@ package gocheck_test
 
 import (
 	"errors"
-	"launchpad.net/gocheck"
+	"github.com/shaunduncan/gocheck"
 	"reflect"
 	"runtime"
 )

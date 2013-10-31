@@ -6,7 +6,7 @@ package gocheck_test
 import (
 	"flag"
 	"fmt"
-	"launchpad.net/gocheck"
+	"github.com/shaunduncan/gocheck"
 	"os"
 	"regexp"
 	"runtime"
